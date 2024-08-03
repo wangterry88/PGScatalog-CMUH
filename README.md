@@ -1,4 +1,4 @@
-# Polygenic Score (PGS) Analysis for CMUH cohort
+# Polygenic Score (PGS) Analysis for a hospital cohort
 
 This project involves a series of scripts for Polygenic Score (PGS) analysis. The following three steps are included:
 
